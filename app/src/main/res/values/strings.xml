@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RobolecticTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvfirstNumber">Introduce el primer número</string>
+    <string name="tvsecondNumber">Introduce el segundo número</string>
+    <string name="tvresult">Resultado:</string>
+    <string name="bSuma">Sumar</string>
+    <string name="bResta">Restar</string>
+    <string name="bMultiplicar">Multiplicar</string>
+    <string name="bDividir">Dividir</string>
+</resources>
